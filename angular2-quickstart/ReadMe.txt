@@ -1,3 +1,12 @@
+How To Run
+==========
+
+1- Clone the repository
+2- npm install
+3- npm start
+
+You can follow https://angular.io/docs/ts/latest/quickstart.html
+
 Files Structure
 ===============
 
